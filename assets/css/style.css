@@ -18,7 +18,7 @@ img {
 }
 .conteiner {
 	background-color: #0A22F4;
-	max-width: 1475px;
+	max-width: 1920px;
 	width: 100%;
 	margin: 0 auto;
 	padding: 0 16px;
@@ -62,10 +62,6 @@ img {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin-left: 240px;
-}
-.div1 {
-
 }
 .h3 {
 	display: flex;
@@ -90,4 +86,11 @@ img {
 	background-color: #F9F9F9;
 	width: 70px;
 	height: 70px;
+}
+.rev {
+	max-width: 1920px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 16;
+	min-height: 91px;
 }
